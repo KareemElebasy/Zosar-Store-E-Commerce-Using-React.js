@@ -26,8 +26,8 @@ const Cart = () => {
               <div className="row ">
                 <div className="col-md-6">
                   <img
-                    width="400px"
-                    height="400px"
+                    width="200px"
+                    height="300px"
                     src={product.image}
                     alt={product.title}
                   />
