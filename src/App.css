@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar-nav .nav-link {
+  font-size: 18px;
+}
+.navbar {
+  background-color: #cdcbcc;
+}
+.footer_section {
+  background-color: #c5bbc0;
+}
+.form-wrapper {
+  background-color: rgb(224, 242, 242);
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 6px;
+}
